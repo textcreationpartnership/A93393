@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apologeticall account, of some brethren of the church, whereof Mr. Iohn Goodwin is pastor. (On the behalf of the church.) Why they cannot execute that unchristian and passionate charge, viz. of delivering up their said pastor unto Sathan, &amp;c. which is imposed upon them, in the sixth page of a late printed booke, called, A vindication of a printed paper, &amp;c. Published according to order.</title>
+         </titleStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93393</idno><idno type="EEBO-CITATION">99861895</idno>
+  <idno type="VID">114041</idno>
+  <idno type="EEBO-PROQUEST">2240939999</idno>
+  
+            <idno type="STC">Wing S4162</idno>
+            <idno type="STC">Thomason E378_2</idno>
+            <idno type="STC">ESTC R201372</idno>
+            <idno type="PROQUEST">99861895</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861895e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93393)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114041)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E378[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apologeticall account, of some brethren of the church, whereof Mr. Iohn Goodwin is pastor. (On the behalf of the church.) Why they cannot execute that unchristian and passionate charge, viz. of delivering up their said pastor unto Sathan, &amp;c. which is imposed upon them, in the sixth page of a late printed booke, called, A vindication of a printed paper, &amp;c. Published according to order.</title>
+                  <author>Smith, Robert, Independent.</author>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.D. and R.I. for Henry Overton, and are to be sold at his shop at the entring into Popes-Head-Alley out of Lumbard street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end by Robert Smith and 15 others.</note>
+                  <note>A reply to: A vindication of a printed paper, entituled, An ordinance presented to the Honorable House of Commons, for the preventing of the growth and spreading of heresies, against the irreligious and presumptuous exceptions call'd Some humble and modest queries (Wing V465).</note>
+                  <note>Annotation on Thomason copy: "feb: 25 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Goodwin, John, 1594?-1665 --  Early works to 1800.</term>
+               <term type="uniform_title">Vindication of a printed paper, entituled, An ordinance presented to the Honorable House of Commons, for the preventing of the growth and spreading of heresies, against the irreligious and presumptuous exceptions call'd Some humble and modest queries --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114041:1"/>
+            <p>AN APOLOGETICALL Account, of some Brethren of the CHURCH, Whereof M<seg rend="sup">r</seg>. <hi>Iohn Goodwin</hi> is Pastor.</p>
+            <p>(On the behalfe of the Church.)</p>
+            <p>Why they cannot execute that Unchristian and passionate Charge, <hi>viz. Of delivering up their said Pastor unto Sathan,</hi> &amp;c.</p>
+            <p>Which is imposed upon them, in the sixth Page of a late Printed Booke, called, <hi>A Vindication of a Printed Paper,</hi> &amp;c.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Acts 25.7.</hi>
+                  </bibl> And they laid many and grievous complaints against Paul, which they could not prove.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Luke 9.55:</hi>
+                  </bibl> But he turned and rebuked them, and said, Ye know not what manner spirit ye are of.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>2. Cor. 13.8.</hi>
+                  </bibl> For we can do nothing against the truth, but for the truth.</p>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order">
+                        <p>Published according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I. D.</hi> and <hi>R. I.</hi> for <hi>Henry Overton,</hi> and are to be sold at his Shop at the entring into Popes-Head-Alley out of Lumbard street. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:114041:2"/>
+            <pb n="1" facs="tcp:114041:2"/>
+            <p>
+               <seg rend="decorInit">I</seg>T was a generall observation among the Heathen, that Envy was an inseperable companion unto Vertue. And truly if Christians would but consult with the ex<g ref="char:EOLhyphen"/>perience of all ages, they should finde that Holinesse hath beene constantly haunted with the like or a worse spirit; the former being but a slight provocation to flesh and blood in comparison of this latter. Our blessed Lord and Saviour Jesus Christ, who spake as never man spake and acted for the glory of his Father at a higher rate, then the Angels themselves can attaine unto, was stigma<g ref="char:EOLhyphen"/>tiz'd by the Rulers of the Jewish Church, with those odi<g ref="char:EOLhyphen"/>ous titles of <hi>blasphemer, divell, a friend of publicans and sin<g ref="char:EOLhyphen"/>ners.</hi> And such as have followed him closest in the rege<g ref="char:EOLhyphen"/>neration, hath the world forced to drinke deepest with him of this bitter cup. The Apostle <hi>Paul,</hi> who (above all the sonnes of men) drew the most perfect resemblance of this heavenly paterne, had much adoe to uphold the ho<g ref="char:EOLhyphen"/>nour and dignity of his Name, even in the Churches of Christ against the suggestions of false teachers? We con<g ref="char:EOLhyphen"/>ceive it a worke of no great difficulty to produce out of e<g ref="char:EOLhyphen"/>very Century since the comming of our Lord, variety of examples of this nature: and to shew how in all times such as have been most richly furnisht from heaven, to do ser<g ref="char:EOLhyphen"/>vice to that God that dwels therein, have deeply suffered in this kinde, and that from those, who were zealous pre<g ref="char:EOLhyphen"/>tenders to the same sacred employment and service with them.</p>
+            <p>But is not the counsell of God, and the hand of Satan in all this? yea doubtlesse, though the one bee founded in wisdome and love; the other stretch'd forth in hatred and
+<pb n="2" facs="tcp:114041:3"/> revenge. The divell, through that enmity which is in him to the glory of his Creator, and the everlasting peace and salvation of the creature, burnes with extream jealousie against all those, who are best appointed with courage and skill to practise upon his vassals, and to make the widest breaches upon his territories; and because he knows there is no way, more likely to render their atempts fruitlesse, and to lay their highest atchievements for the throne of hea<g ref="char:EOLhyphen"/>ven in the dust, then to cast dead flyes into the box of their oyntment; he therefore provokes all the interest he hath in the tongues and hearts of men to wound their Names, that if it be possible the credit and reputation of them might bleed even unto death. But wherein this <hi>grand accuser of the brethren</hi> thinkes he deales wisely, therein God is above him; and compels this stratagem of his against his servants to become contributory to his owne ends and their good. For though <hi>knowledge</hi> and <hi>abundance of revelations</hi> are apt through the weaknesse of the flesh to puffe up even the best of men, yet these <hi>buffetings by the messengers of Satan</hi> prove excellent correctives of such swellings; and are a proper means to keep their hearts in an humble and low posture: which posture as it makes them capable of the largest in<g ref="char:EOLhyphen"/>fusion of grace, so doth it principally qualifie them to be<g ref="char:EOLhyphen"/>come instruments for Gods hand. Whereas if they wan<g ref="char:EOLhyphen"/>ted this qualification, though accommodated in all other respects for his service, he would soone lay them by the walls as uselesse tooles (and so his occasions in the world might suffer losse) for certainly in the election of meanes for his own ends, he passes by proud and high persons with as much neglect and disdain, as proud and high things.</p>
+            <p>The consideration hereof (amongst other things relating hereunto) as it had (we doubt not) a sovereigne influence upon our dearly beloved Pastor, for the strenthening of
+<pb n="3" facs="tcp:114041:3"/> him against the assaults of the powers of darknesse and this world; so had it somewhat the like operation upon us also; who otherwise could not have borne the cruell outragious and malitious dealings of men towards him, with that equa<g ref="char:EOLhyphen"/>nimity and moderation of spirit we have done. To see a beautifull visage causelesly deformed by the talons of cru<g ref="char:EOLhyphen"/>elty, is a fight which cannot but afflict nature: but to see in<g ref="char:EOLhyphen"/>nocency suffer for truths sake, oh how grievous, how op<g ref="char:EOLhyphen"/>pressing is it to an ingenuous and gracious spirit? and this was our case in respect of him. Our experience and strict observation of him for some yeares together, fill'd us to the very brim with assurance of his integrity and faithfulnesse both to God and man: and this assurance made us so ex<g ref="char:EOLhyphen"/>ceeding tender in our affections and respects to him, that the loud and furious outcries of some against him were as a sword which pierced our bowels thorough and thorough. Neverthelesse, it came not into all our thoughts to move for his vindication one step beyond the sphere of those places and companies whither our private occasions led us: yet ignorant we were not, what advantage his accusers had of us in this respect: we knew full well, that the line of our occasions and oportunities was too short to traverse the cir<g ref="char:EOLhyphen"/>cumference of the Presse; and consequently, that it was im<g ref="char:EOLhyphen"/>possible for us to gather up by our apologies and defence, what they had scattered in the minds &amp; opinions of men by the hand thereof: Our hope indeed was, that what through our private testimonies and ingagements on the one hand, and his publique vindications of himselfe on the other, and the blessing of God upon both; the wise and sober part of the world might have been antidoted against the poyson of their informations. However we perswaded our selves, that the day was not far off, when those <hi>wayes</hi> and <hi>truths</hi> for which he suffer'd, would rise out of their graves, and ascend
+<pb n="4" facs="tcp:114041:4"/> upon the Throne, and draw his name out of its dust and ashes after them to pertake with themselves in their glory: And under this expectation wee possest our soules in pati<g ref="char:EOLhyphen"/>ence; only we could not in the meane time but weepe in secret over the astonishing wickednes and folly of this age, which spits its venome in the faces of such, as most indu<g ref="char:EOLhyphen"/>striously promote the things of the peace and welfare of it.</p>
+            <p>But the breaking forth of a late treatise called a Vindica<g ref="char:EOLhyphen"/>tion of a printed Paper, &amp;c. or rather the breakings out of an unchristian spirit in that Treatise, hath even forced the pen into our hands, and laid a necessity upon us to let the world know, why wee doe not, wee dare not, wee can<g ref="char:EOLhyphen"/>not, obey the voice of this spirit speaking unto us in black<g ref="char:EOLhyphen"/>nesse and darknesse, in smoake and fire out of the midst of it: For our parts, we cannot but thus judge concerning the Author or Authors of that <hi>vindication,</hi> that when they im<g ref="char:EOLhyphen"/>posed upon us that direfull charge therein specified, they were under the power and actings of the same inspirations with the Jewes, when they cryed out to <hi>Pilate</hi> against our Saviour, <hi>crucifie him, crucifie him:</hi> And doubtlesse <hi>Pilate</hi> had as much reason to gratifie the bloody desires of this people, as wee have to <hi>deliver him up unto Sathan,</hi> whom we know to be a most faithfull Servant and Minister of Jesus Christ, there being no reason either for the one or the o<g ref="char:EOLhyphen"/>ther. That blasphemy for which wee are commanded to throw the thunderbolt of excommunication against him enquired into, wee are confident, will be found to be but of the same nature and consideration with that, for which this <hi>just</hi> and <hi>holy One</hi> was put to death, that is, no blasphemy at all. If to vindicate the truths of God from the false and ly<g ref="char:EOLhyphen"/>ing imaginations of men: if to maintaine the royalties of Christ and the priviledges of his Subjects, against the en<g ref="char:EOLhyphen"/>croachments and tyranny of the World; if to stand in the
+<pb n="5" facs="tcp:114041:4"/> gap, and indeavour to keepe out the horn'd beast of perse<g ref="char:EOLhyphen"/>cution from the societies and bodies of the Saints, if this be blasphemy, we confesse him to be one of the greatest blas<g ref="char:EOLhyphen"/>phemers under heaven; and upon these termes, willing wee are to quit our interest in him, and resigne him up into the jurisdiction of him who is his, and our greatest enemy. But though such waies and practises as these, are arraigned and condemned too under the names of Heresie. Blasphemy, and the like, in the consistories of men, where their carnal interests and accommodations sit as Judges; yet our com<g ref="char:EOLhyphen"/>fort is, that the sentence shall be reverst in the Court of Heaven; and all engagements of this nature shall then bee rewarded as loyalty and faithfulnes to the great King that rules there.</p>
+            <p>We have fully knowne his <hi>Doctrine, life,</hi> and <hi>conversa<g ref="char:EOLhyphen"/>tion,</hi> and as far as by the use of our reasons, understandings, and observations we are able to judge of them, they are <hi>according to truth,</hi> and <hi>as becomes the Gospel of the Lord Ie<g ref="char:EOLhyphen"/>sus.</hi> Those streames of light which have run through the current of his ministry, have been as pure and unmixt from any tincture of darknesse, as the earthlinesse and weaknesse of the vessell from whence they issued, could well permit: The <hi>Doctrines of the Father and of the Son,</hi> the involving whereof in the cloudes of <hi>uncertainty, the said vindication</hi> most falsly and maliciously charges upon him, hath he brought into so cleere and open view, that wee have seene the peace and everlasting salvation of our soules in them. Every one of those Fundamentall Principles of Christian Religion, which this gangren'd pen would perswade the world he denyes or doubts of, hath he not only asserted in our hearing againe and againe, but proov'd them with such evidence and demonstration of the spirit, that our consci<g ref="char:EOLhyphen"/>ences were forced to fall flat before them, and to confesse
+<pb n="6" facs="tcp:114041:5"/> that of a truth God was in them. Sure wee are, he hath laid amongst us that true and everlasting foundation Jesus Christ, other then which no man can lay without extreame perill of himselfe and his Disciples. But because the know<g ref="char:EOLhyphen"/>ledge of the most knowing attaines not perfection in this life (Errours and misprisions being mixt with their choy<g ref="char:EOLhyphen"/>cest and purest notions) wee confesse tis possible that the structure he hath set upon this foundation is not all of <hi>gold silver, and precious stones:</hi> Perhaps somewhat of the nature of <hi>wood, hay, and stubble</hi> will be found in it: Yet of this we are strongly possest, and that not upon light and loose grounds, that his <hi>Workes</hi> and <hi>Labours</hi> in this kind shall suffer as little losse by fire in the day of purgation, as the <hi>Workes</hi> of any his fellow-labourers whosoever. The truth is, wee cannot but blesse the hand of that providence, which planted us by the waters of his ministry, the streams wher<g ref="char:EOLhyphen"/>of make glad our hearts, and refresh the very roote of our soules with the refreshings of the Almighty. As for his life, we have seen <hi>holinesse to the Lord,</hi> engraven in faire and convincing characters upon the forehead of it: Verily, the the signes of a true <hi>Minister</hi> of Christ, and of an <hi>Elder</hi> in<g ref="char:EOLhyphen"/>deed of his Church, hath he wrought amongst us in all knowledge, wisdome, temperance, gravity, humblenesse, patience, faithfullnesse and love. And therefore wee ap<g ref="char:EOLhyphen"/>peale to all sober and reasonable men, whether to <hi>with<g ref="char:EOLhyphen"/>draw all converse from him</hi> upon the bare injunctions of the passions and distempers of any whomsoever, were not to despise this grace of God, &amp; to consult leannes, barrennes, &amp; trouble to our soules? Or whether to joyne him and ex<g ref="char:EOLhyphen"/>communication together, were not to make one of the most accursed matches that the policy of the Divell, and wickednesse of men e're conspired?</p>
+            <p>Whether the publishing of some <hi>humble</hi> and <hi>modest
+<pb n="7" facs="tcp:114041:5"/> Queries,</hi> or in particular that <hi>Query</hi> upon which these men fall so foule, that they seem to be starke drunke with rage and fury, will amount to <hi>wickednesse</hi> and <hi>blasphemy;</hi> or whether any thing of affinity unto these be contain'd in the bowels of <hi>it;</hi> we presume all intelligent men may receive satisfaction from a far more able, and (in some respect) more interessed pen<note n="*" place="margin">Vid. Hagiom<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> stix, or th<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> scourge <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Sts. di<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>played i<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> his colou<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of Igno<g ref="char:EOLhyphen"/>rance an<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> blood.</note> then outs. We have looked upon this <hi>Query</hi> againe and againe, wee have searched into the bottome of it with all possible exactnesse and imparti<g ref="char:EOLhyphen"/>ality, and professe that we cannot finde that blacke and cursed treasure in it, no nor the least veine thereof over which they so insultingly rejoyce. If they indeed saw-in it such fearfull and gashley apparitions as they cry out of, we have cause to thinke, that they looked through the false spectacles of malice, hatred, and revenge. Wee know the great Chymist of Hell is labou<g ref="char:EOLhyphen"/>ring night and day to metamorphise <hi>Truth</hi> into <hi>error, innocency</hi> and <hi>holinesse</hi> into <hi>wickednesse</hi> and <hi>faction,</hi> the <hi>Order</hi> of the <hi>Gospel</hi> into <hi>schisme</hi> and <hi>confusion.</hi> If any in imitation of him (or rather through inspiration from him) shall extract by the fire of their passions desperate conclusions from harmelesse premises, we be<g ref="char:EOLhyphen"/>waile their proficiency in this black art, and abhorre it. As for these <hi>Persons,</hi> certainly they had never found such a riddle and <hi>complication of blasphemies</hi> in a <hi>Query</hi> so innocent and inoffen<g ref="char:EOLhyphen"/>sive, had they ploughed with the faire heifer of <hi>Love,</hi> which as the Apostle speaks, <hi>thinketh no evill, beareth all things,</hi>
+               <note place="margin">1 Cor. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 5. &amp; 7.</note>
+               <hi>belee<g ref="char:EOLhyphen"/>veth all things, hopeth all things.</hi> And yet wee are perswa<g ref="char:EOLhyphen"/>ded, that they triumph in face, more then in heart; and are conscious to themselves, that those great <hi>spoyles,</hi> which they boast like Emperours to have taken from the <hi>Querists</hi> name, are but <hi>cockles, i.</hi> meere flourishes and bubbles. For had they judged themselves able to make good their sore charge of <hi>blasphemy</hi> a<g ref="char:EOLhyphen"/>gainst him, in all likelihood he had felt the scorching heat of their zeale, and been convented before Rulers and Magistrates long ere this: to thinke otherwise, were to conceive that they
+<pb n="8" facs="tcp:114041:6"/> are lesse zealous for <hi>Truths</hi> then for <hi>Tyth's,</hi> for the cause and glory of God, then their owne greatnesse and domination.</p>
+            <p>But is it not a sad thing, and of portentuous consequence, that such great pretenders not to the Office only, but the Qualifica<g ref="char:EOLhyphen"/>tions of an Elder, should act so diametrally opposite there<g ref="char:EOLhyphen"/>unto? should become publique brawlers and revilers, should smite their fellow-servant in a place more tender then his eye, <hi>viz.</hi> in his <hi>name</hi> and <hi>honour,</hi> should arraigne him, judge him, and condemne him unto hell, and all for no other crime, upon no other witnesse, then the publishing a naked <hi>Query,</hi> the nature whereof (all men know) is neither to assert any thing, nor deny? Nay, which is more, should conjure others also, even a whole Church of Christ to be copartners with them in their sin, and to helpe them to poure out the dregs of their cruell and unrighte<g ref="char:EOLhyphen"/>ous wrath upon their owne <hi>Pastor?</hi> What streine? what tem<g ref="char:EOLhyphen"/>per of spirit shall we call this? if they themselves will call it zeale, we will call it so too; but it is a zeale from beneath and symbolizeth in properties with that wisdome which comes from the same place,<note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m. 3.15</note> which (as <hi>Iames</hi> tells us) is <hi>earthly, sensuall, and devillish.</hi> If he had dropt any <hi>sentence</hi> in Print, the face whereof might have beene forc'd to looke towards the borders of wickednesse and blasphemie; yet it became Elders to use it gently, and to take that to be the sense and meaning of it which it gave out freely and without torture. A <hi>Christian Method</hi> from which others likewise have lately deviated in perverting his sence and sayings, and thereupon reporting that he denies the Scriptures to be the Word of God; whereas he hath engaged more thoughts, spent more houres, preached more Sermons for the vindication of the divine Originall of the Scriptures out of the hands of jealousie and unbeliefe, then any of his profession that wee know. And were his labour in this kind transmitted to publique view, if wee should judge of the fruits of it, by what we have found in our selves, doubtles it would blesse the world,
+<pb n="9" facs="tcp:114041:6"/> and be the establishment of the hearts of thousands in this great Fundamentall Truth.</p>
+            <p>Againe, suppose he had published something which strucke point-blanke at a maine principle of the Gospell (a supposi<g ref="char:EOLhyphen"/>tion which malice it selfe in conjunction with sophistry will never be able to make good) it had beene their Office (if they would needes intermeddle) to have advised us to ad<g ref="char:EOLhyphen"/>monish him once and againe, and to endeavour in love and patience to convince him, before wee proceeded any fur<g ref="char:EOLhyphen"/>ther; but to command us upon such peremptory termes as they doe, at the very first dash to excommunicate him, without any triall, admonition, or meanes of conviction going before; What does this but argue, that they have more of Christ, his spirit, minde, and government in their <hi>lips</hi> and <hi>pens,</hi> then in their <hi>hearts</hi> and <hi>wayes?</hi> Such <hi>overtures</hi> of their great insufficiency to rule and governe, as this is, wee thinke are sufficient cautions to the State to deny them that <hi>royall crowne</hi> which they so earnestly desire and run for; it being an act of equall improvidence, to put a sharpe knife into a childs hand, and to give <hi>power</hi> to passio<g ref="char:EOLhyphen"/>nate and unreasonable men. Were they accommodated in all things to their hearts content, they would soon make the best to feele, what the most doe feare, that the little finger of their Dis<g ref="char:EOLhyphen"/>cipline would be thicker in persecution then their Predecessors Loynes. The soundest and ablest Christians in the Land could not possibly scape free from their rods and scorpions, had they as good <hi>authority</hi> to punish Heresies and Blasphemies <hi>how</hi> they please, as they have a <hi>faculty</hi> to make Heresies and Blasphemies of <hi>what</hi> they please.</p>
+            <p>One thing further we desire the <hi>Reader</hi> to take notice of, that they presse us with the most prevailing motives under Heaven to doe that, which they themselves judge sinfull and altogether unlawfull for us to doe. <hi>The power of the keyes by divine right</hi> is questionlesse one of the <hi>Regalia Imperii,</hi> a chiefe Royalty of that
+<pb n="10" facs="tcp:114041:7"/> sacred Empire, for which they with others of their <hi>Order</hi> con<g ref="char:EOLhyphen"/>tend so strenuously, that they make the foundations of the Land shake and tremble under them. For any to intermeddle herein with unconsecrated hands, is the great abhomination of their soules: And yet though they cannot but know, that not one drop of their consecrating oyle hath touch'd our heads, they <hi>charge</hi> us as wee <hi>regard the honour of God, and our Lord Iesus Christ, and the authority of the Spirit,</hi> to execute the highest censure, not onely without, and against the consent, but upon the person of ou<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>only Elder.</hi> What is this, but to make these great and sacred <hi>Names,</hi> which are the chiefe incentives unto holines, to become the Ministers of sin, at lest of that which they call so? Whether they have not hereby insinuated thus much into the mindes of many, that they can speake any thing, doe any thing, command any thing, permit any thing <hi>to serve a turne,</hi> wee leave to themselves to determine. In our apprehensions they seem to be somewhat of his minde, who thus cruelly resolved with him<g ref="char:EOLhyphen"/>selfe, <hi>pereant amici, dummodò pereant inimici:</hi> They can find in their hearts to shake a maine pillar of their Babell, or suffer their <hi>jus divinum</hi> to fall to the ground, so the <hi>man</hi> of their hatred and indignation might fall together with it.</p>
+            <p>But to conclude, we have turned their <hi>injunction</hi> upside down, wee have viewed it on all sides, as it faces <hi>themselves,</hi> the <hi>qucrist,</hi> and <hi>us,</hi> and find it in every respect so abhorrent to all principles of ingenuity, civility, reason and religion, that the very thought of it makes us quake. To perpetrate such a deed of darknes a<g ref="char:EOLhyphen"/>gainst <hi>him, whom</hi> God hath made more precious to us then our lives, is by far more grievous to our spirits, then to cut off our right hands and pull out out right eyes, would be unto our flesh. Wee could open our mouthes yet seven times wider on his be<g ref="char:EOLhyphen"/>halfe then wee have done. But wee are unwilling to provoke the rage of his accusers and enemies any further, in reflecting shame upon the darknes of their weaknesses and folly (to say no more) by the light of his life and conversation. In the presence of An<g ref="char:EOLhyphen"/>gels
+<pb n="11" facs="tcp:114041:7"/> and men, <hi>we call God for a record upon our soules,</hi> that we know nothing by him, which deserves the lightest censure of a Church, all his deportments amongst us calling for love, reve<g ref="char:EOLhyphen"/>rence, honour, and imitation. And our prayer unto God is, that he would by the influence of his Doctrine and Example make us so abundantly fruitfull in all well doing, that as <hi>He</hi> is our glory and rejoycing for the present, so <hi>Wee</hi> may be his glory and the <hi>Crowne of his rejoycing in the day of the Lord Iesus.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Robert Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>Marke Hildesley.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Saunders.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Davenish.</hi>
+                     </item>
+                     <item>
+                        <hi>William Mountague.</hi>
+                     </item>
+                     <item>
+                        <hi>William Allen.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioseph Gallant.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Lambe.</hi>
+                     </item>
+                     <item>
+                        <hi>Daniell Taylor.</hi>
+                     </item>
+                     <item>
+                        <hi>Iames Paris.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Norman.</hi>
+                     </item>
+                     <item>
+                        <hi>Bartholomew Lavender.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Preice.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Morris.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Price.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Arnald.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
